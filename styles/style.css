@@ -1,0 +1,46 @@
+/* Start body */
+body {
+    background-color: white;
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+}
+/* End body */
+
+/* Start Heading */
+h1 {
+    color: green;
+}
+.tes {
+    color: yellow;
+}
+/* End Heading */
+
+/* Start Container */
+.container {
+    width: 90%;
+    margin: 0 auto;
+    background-color: pink;
+}
+/* End Container */
+
+/* Start Debug */
+.bebas {
+    background-color: yellow;
+    height: 100px;
+}
+/* End Debug */
+
+/* Start Iseng */
+.kiri {
+    background-color: white;
+    float: left;
+    height: 100px;
+    width: 20%;
+}
+.kanan {
+    background-color: pink;
+    float: right;
+    height: 100px;
+    width: 80%;
+}
+/* End Iseng */
